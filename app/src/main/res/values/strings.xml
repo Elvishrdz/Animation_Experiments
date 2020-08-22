@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation Experiments</string>
+    <string name="you_are_in_the_main_menu">You are in the main menu!</string>
+    <string name="card_sample_description">Here give a description of this section</string>
+    <string name="card_sample_title">This is your title</string>
+    <string name="card_sample_subtitle">And this your subtitle</string>
+</resources>
