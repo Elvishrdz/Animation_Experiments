@@ -5,6 +5,10 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
+        <!--Enable Shared Element Transitions (BasicWithActivities1.kt [2])-->
+        <item name="android:windowContentTransitions">true</item>
+
     </style>
 
 </resources>

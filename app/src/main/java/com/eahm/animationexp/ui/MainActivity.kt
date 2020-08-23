@@ -12,12 +12,18 @@ import kotlinx.android.synthetic.main.activity_main.*
 class MainActivity : AppCompatActivity() {
 
     private val appSections = listOf(
-            MenuElement(
-                    "The app menu is ready!",
-                    "Goes to MainActivity",
-                    "This is a basic example of the app menu for each new activity where a new functionality will be tested.",
-                    MainActivity::class.java
-            )
+        MenuElement(
+            "The app menu is ready!",
+            "Goes to MainActivity",
+            "This is a basic example of the app menu for each new activity where a new functionality will be tested.",
+            MainActivity::class.java
+        ),
+        MenuElement(
+            "Basic with Activities",
+            "Shared Element Transitions",
+            "Passing some widgets with shared element transitions to another Activity view.",
+            BasicWithActivities1::class.java
+        )
     )
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

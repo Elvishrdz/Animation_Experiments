@@ -4,4 +4,10 @@
     <string name="card_sample_description">Here give a description of this section</string>
     <string name="card_sample_title">This is your title</string>
     <string name="card_sample_subtitle">And this your subtitle</string>
+    <string name="go_to_activity_2">Go to Activity 2</string>
+    <string name="basic_with_activities">Basic with Activities</string>
+    <string name="basic_with_activities_subtitle">Widget elements as childrens in another container</string>
+    <string name="go_back">Go Back</string>
+    <string name="use_multiple_elements">Use multiple elements</string>
+    <string name="go_up">Go Up</string>
 </resources>
